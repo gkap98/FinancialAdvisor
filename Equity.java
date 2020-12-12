@@ -21,6 +21,7 @@ public class Equity extends Account {
         return portfolioValue;
     }
 
+
     public Double getEquityBalance() {
         return equityBalance;
     }

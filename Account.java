@@ -36,7 +36,7 @@ public abstract class Account {
 // *****************
 //     Setters
 // *****************
-    public void setFirstName(String name) {
+    private void setFirstName(String name) {
         firstName = name;
     }
     public void setLastName(String name) {
